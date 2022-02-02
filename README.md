@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Javascript
+- 🔭 I’m currently working on Frontend 
 
-- 🌱 I’m currently learning Node Js
+- 🌱 I’m currently learning Backend
 
 - 👯 I’m looking to collaborate on Open Source
 
