@@ -11,4 +11,4 @@
 - 📫 How to reach me: Email - nishchhal901@gmail.com
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishchhal007&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishchhal007&theme=dark)
