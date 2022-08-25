@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate to Open Source
 
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with internships
 
 - 📫 How to reach me: Email - nishchhal901@gmail.com
 
