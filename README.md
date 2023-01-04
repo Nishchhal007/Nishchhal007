@@ -27,9 +27,7 @@
  -->
 ## My GitHub Stats
 
-![Nishchhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishchhal007&count_private=true&theme=angolia)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishchhal007&theme=radical)
+![Nishchhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishchhal007&count_private=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchhal007&theme=radical" alt="Nishchhal007" /></p>
 
